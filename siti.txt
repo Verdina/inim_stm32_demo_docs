@@ -1,0 +1,9 @@
+MICRO STM32G071RB:
+https://www.st.com/en/microcontrollers-microprocessors/stm32g071rb.html
+
+NUCLEO-G071RB:
+https://www.st.com/en/evaluation-tools/nucleo-g071rb.html
+
+STM32CubeIDE:
+https://www.st.com/en/development-tools/stm32cubeide.html
+
